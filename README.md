@@ -1,8 +1,5 @@
 # SubSor — On-chain Subscription & Revenue Split
 
-**Repository:** `stellarebootcampproject`
-
-A hackathon-ready Soroban (Stellar) smart contract for subscription management and automated revenue splitting.
 
 ---
 
